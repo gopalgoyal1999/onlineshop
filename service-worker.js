@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/onlineshopapp1/precache-manifest.290ae70729ada35a6d1d1df9bef48188.js"
+  "/onlineshop/precache-manifest.5c8c7e26da204d4ec78aa96803d7fd1a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/onlineshopapp1/index.html", {
+workbox.routing.registerNavigationRoute("/onlineshop/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

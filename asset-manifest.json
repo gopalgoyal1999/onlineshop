@@ -1,15 +1,15 @@
 {
-  "main.css": "/onlineshopapp1/static/css/main.908c982d.chunk.css",
-  "main.js": "/onlineshopapp1/static/js/main.a966d516.chunk.js",
-  "main.js.map": "/onlineshopapp1/static/js/main.a966d516.chunk.js.map",
-  "static/css/1.502cd677.chunk.css": "/onlineshopapp1/static/css/1.502cd677.chunk.css",
-  "static/js/1.87aedec1.chunk.js": "/onlineshopapp1/static/js/1.87aedec1.chunk.js",
-  "static/js/1.87aedec1.chunk.js.map": "/onlineshopapp1/static/js/1.87aedec1.chunk.js.map",
-  "runtime~main.js": "/onlineshopapp1/static/js/runtime~main.3a0c94e8.js",
-  "runtime~main.js.map": "/onlineshopapp1/static/js/runtime~main.3a0c94e8.js.map",
-  "static/css/1.502cd677.chunk.css.map": "/onlineshopapp1/static/css/1.502cd677.chunk.css.map",
-  "static/css/main.908c982d.chunk.css.map": "/onlineshopapp1/static/css/main.908c982d.chunk.css.map",
-  "index.html": "/onlineshopapp1/index.html",
-  "precache-manifest.290ae70729ada35a6d1d1df9bef48188.js": "/onlineshopapp1/precache-manifest.290ae70729ada35a6d1d1df9bef48188.js",
-  "service-worker.js": "/onlineshopapp1/service-worker.js"
+  "main.css": "/onlineshop/static/css/main.908c982d.chunk.css",
+  "main.js": "/onlineshop/static/js/main.1592ef50.chunk.js",
+  "main.js.map": "/onlineshop/static/js/main.1592ef50.chunk.js.map",
+  "static/css/1.502cd677.chunk.css": "/onlineshop/static/css/1.502cd677.chunk.css",
+  "static/js/1.b542bd71.chunk.js": "/onlineshop/static/js/1.b542bd71.chunk.js",
+  "static/js/1.b542bd71.chunk.js.map": "/onlineshop/static/js/1.b542bd71.chunk.js.map",
+  "runtime~main.js": "/onlineshop/static/js/runtime~main.8931f26d.js",
+  "runtime~main.js.map": "/onlineshop/static/js/runtime~main.8931f26d.js.map",
+  "static/css/1.502cd677.chunk.css.map": "/onlineshop/static/css/1.502cd677.chunk.css.map",
+  "static/css/main.908c982d.chunk.css.map": "/onlineshop/static/css/main.908c982d.chunk.css.map",
+  "index.html": "/onlineshop/index.html",
+  "precache-manifest.5c8c7e26da204d4ec78aa96803d7fd1a.js": "/onlineshop/precache-manifest.5c8c7e26da204d4ec78aa96803d7fd1a.js",
+  "service-worker.js": "/onlineshop/service-worker.js"
 }
